@@ -1,0 +1,33 @@
+#search-video {
+	padding: 5em 0 0 25%;
+	width: 55%;
+}
+
+#search {
+	padding: 0.5em 10em 0.5em 0.5em;
+	margin-left: 5em;
+}
+
+.controls {
+	margin-left: 5em;
+	padding:0.5em 2em;
+	border-radius: 5px;
+}
+
+
+#search-list{
+	list-style: none;
+}
+
+.search-item {
+	margin-bottom: 2em;
+}
+
+.search-item:hover {
+	cursor:pointer;
+}
+
+p {
+	margin-left: 2em;
+	display: inline;
+}
